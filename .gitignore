@@ -36,5 +36,6 @@ coverage
 /mock-service/package-lock.json
 /webapp.tar
 /config.json
+/target
 /version
 /lib/
