@@ -7,7 +7,7 @@ object ValuesVariablesTypes extends App {
 
   //x = 2  // VALs are immutable
 
-  val y = 42 // Types are optional - Compiler can infer types
+  val y = 21 // Types are optional - Compiler can infer types
   println(y)
 
   val aString: String = "Hello"
