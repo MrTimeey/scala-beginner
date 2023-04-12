@@ -1,6 +1,6 @@
 package lectures.part2oop
 
-object InheritanceAndTraits extends App {
+object Inheritance extends App {
 
   // single class inheritance - one class at time
   sealed class Animal { // Superclass of Cat

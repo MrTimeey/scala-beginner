@@ -1,5 +1,7 @@
 package playground;
 
+import java.util.LinkedList;
+
 // class which makes the analogies between Scala objects and Java statics
 public class JavaPlayground {
     public static void main(String args[]) {
